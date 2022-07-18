@@ -6,8 +6,8 @@ test('valid arguments', () => {
     name: 'Character',
     type: 'Swordsman',
     health: 100,
-    attack: null,
-    defence: null,
+    attack: undefined,
+    defence: undefined,
     level: 1,
   });
 });
